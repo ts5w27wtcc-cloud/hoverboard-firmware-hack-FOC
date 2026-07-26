@@ -135,7 +135,7 @@
 */
 #define COM_CTRL        0               // [-] Commutation Control Type
 #define SIN_CTRL        1               // [-] Sinusoidal Control Type
-#define FOC_CTRL        2               // [-] Field Oriented Control (FOC) Type
+#define FOC_CTRL        3               // [-] Field Oriented Control (FOC) Type
 
 #define OPEN_MODE       0               // [-] OPEN mode
 #define VLT_MODE        1               // [-] VOLTAGE mode
